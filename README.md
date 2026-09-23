@@ -1,4 +1,4 @@
-# minsh
+# C Shell
 
 A small Unix shell written in C. It covers the basic loop every shell runs:
 read a line, split it into arguments, then either run a builtin or fork and
